@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "chirp-bold";
+  src: url("chirp-extended-bold-web.woff2") format("woff2");
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.backToHome {
+  margin: 3rem 0 0;
+}
+.background {
+  background: brown;
+  box-shadow: 10px 5px 5px rgb(235, 230, 230);
+}
+.bottomlink {
+  background-color: beige;
+  color: green;
+}
+.wrapperBackground {
+  background-color: blue;
+  text-decoration-color: blanchedalmond;
+}
