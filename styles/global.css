@@ -16,9 +16,7 @@ a {
   color: blue;
   text-decoration: none;
 }
-a:visited {
-  color: inherit;
-}
+
 a:hover {
   text-decoration: underline;
   text-decoration-color: rgb(255, 90, 255);
